@@ -1,3 +1,4 @@
+![03-javascript-homework-demo]
 ```
 ##JavaScript
 #jeshuasalgado/jeshuasalgado.github.io
@@ -36,3 +37,4 @@ WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 - - -
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+(https://user-images.githubusercontent.com/87511116/129516944-4d5668b5-7af6-4400-90bb-4a9a3b541ab6.png)
